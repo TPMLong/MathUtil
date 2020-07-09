@@ -9,8 +9,8 @@ It is a part of Software Engineering course in Semester 4 at FPT University, HCM
 * .gitignore file
 
 ### Contact me via
-[GitHub](http://github.com/TPMLong)
-[facebook](https://www.facebook.com/LongTPM)
+1. [GitHub](http://github.com/TPMLong)
+2. [facebook](https://www.facebook.com/LongTPM)
 
 
 #### © 2020 by ML
