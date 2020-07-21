@@ -30,7 +30,7 @@ public class MathUtilTest {
         Assert.assertEquals(120, MathUtil.computeFactorial(5));
     }
     
-    @Test(expected = NumberFormatException.class)
+    @Test(expected = IllegalArgumentException.class)
     public void testFailedCases(){
         MathUtil.computeFactorial(-5);
     }
